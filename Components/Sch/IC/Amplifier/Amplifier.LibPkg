@@ -479,8 +479,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VHWLPZFS
 
+[Document27]
+DocumentPath=..\..\..\Pcb\Custom\HO2.8-1B+SOIC-8_INV.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XLFGXFOV
+
 [SearchPath1]
-Path=*.*
+Path=D:\AD_lib\Components\Sch\IC\Amplifier\*.*
 IncludeSubFolders=1
 
 [Generic_IntLibOptions]
